@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Jefferson Xavier, estudante de TADS
-- 🌱 Estudando Javascript | PHP | C | Cloud | Css
+- 🌱 Conhecimento em Javascript | PHP | C | Cloud | Css | React | Lua
 <!--- 📫 Contrate-me no email: Jeffersonax97@gmail.com-->
 
 <picture>
