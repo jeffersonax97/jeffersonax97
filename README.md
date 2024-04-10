@@ -15,7 +15,7 @@
 </picture>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonx97&layout=compact&langs=16&theme=tokyonight"/> -->
 <!--   https://github-readme-stats.vercel.app/api?username=jeffersonax97)](https://github.com/anuraghazra/github-readme-stats -->
-  <img src=https://github-readme-stats.vercel.app/api?username=jeffersonax97&show_icons=true&theme=radical
+  <img src=https://github-readme-stats.vercel.app/api?username=Jeffersonax97&show_icons=true&theme=radical
   
   
   <!-- height="180em" / align="center" -->
