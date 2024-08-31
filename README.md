@@ -1,9 +1,9 @@
 
-<!--<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://cdn.discordapp.com/attachments/1222992027092779248/1277326384317857863/image.jpg?ex=66d359e5&is=66d20865&hm=23a42cea3ae4be061a93e93800d6fb2dda62c9a67a4c0f793414e7536160236f&" />
-&nbsp;&nbsp;&nbsp;-->
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=15% src="https://cdn.discordapp.com/attachments/1222992027092779248/1277326384317857863/image.jpg?ex=66d359e5&is=66d20865&hm=23a42cea3ae4be061a93e93800d6fb2dda62c9a67a4c0f793414e7536160236f&" />
+&nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Eu ❤️ enfrentar grandes desafios usando tecnologia. <br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonado por resolver problemas complexos através da tecnologia. Procuro equilibrar minha formação entre habilidades técnicas e gerenciais, o que me levou a adquirir experiência em liderar equipes, coordenar projetos, analisar e aprimorar continuamente o software, sempre integrado aos fundamentos do desenvolvimento ágil.</p>&nbsp;
+<p align="center">Eu ❤️ enfrentar grandes desafios usando tecnologia. <br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonado por resolver problemas complexos através da tecnologia. Procuro equilibrar minha formação entre habilidades técnicas e gerenciais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jeffersonax97&theme=radical&mode=weekly" />
