@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;-->
 
 
-<p align="center">❤️ Gosto de enfrentar grandes desafios usando tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonado por resolver problemas complexos através da tecnologia. Procuro equilibrar minha formação entre habilidades técnicas e gerenciais, o que me levou a adquirir experiência em liderar equipes, coordenar projetos, analisar e aprimorar continuamente o software, sempre integrado aos fundamentos do desenvolvimento ágil.</p>&nbsp;
+<p align="center">❤️ Gosto de enfrentar grandes desafios usando tecnologia. <br><br>Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonado por resolver problemas complexos através da tecnologia. Procuro equilibrar minha formação entre habilidades técnicas e gerenciais, o que me levou a adquirir experiência em liderar equipes, coordenar projetos, analisar e aprimorar continuamente o software, sempre integrado aos fundamentos do desenvolvimento ágil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jeffersonax97&theme=radical&mode=weekly" />
