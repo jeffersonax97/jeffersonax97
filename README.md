@@ -1,6 +1,6 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
+<!--<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+&nbsp;&nbsp;&nbsp;-->
 
 
 <p align="center">❤️ Gosto de enfrentar grandes desafios usando tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas e sou apaixonado por resolver problemas complexos através da tecnologia. Procuro equilibrar minha formação entre habilidades técnicas e gerenciais, o que me levou a adquirir experiência em liderar equipes, coordenar projetos, analisar e aprimorar continuamente o software, sempre integrado aos fundamentos do desenvolvimento ágil.</p>&nbsp;
