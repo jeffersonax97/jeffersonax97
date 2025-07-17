@@ -4,7 +4,7 @@
 
 
 <p align="center">Saber linguagem é uma habilidade<br>Entender lógica é um poder<br>❤️</p><p></p> <br><br>O início de 2020 foi quando descobri a programação, o que me permitiu ganhar experiência valiosa em JavaScript, React, Testes com Jest, Node JS, Git e outras ferramentas e tecnologias de desenvolvimento web por meio de cursos e freelance. Me expecializando em software front-end, criando páginas web responsivos e fáceis de usar para dispositivos móveis e desktop usando ReactJS, JavaScript, NextJS, e TypeScript.
-Minha paixão é criar soluções impactantes, promover um ambiente colaborativo e multifuncional, bem como melhorar continuamente minhas habilidades para entregar soluções de alta qualidade. Meu objetivo é contribuir para projetos que sejam inovadores e causem um impacto positivo nos usuários..</p>&nbsp;
+Minha paixão é criar soluções impactantes, promover um ambiente colaborativo e multifuncional, bem como melhorar continuamente minhas habilidades para entregar soluções de alta qualidade. Meu objetivo é contribuir para projetos que sejam inovadores e causem um impacto positivo nos usuários.</p>&nbsp;
 
 <!--<div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=jeffersonax97&theme=radical&mode=weekly" />
